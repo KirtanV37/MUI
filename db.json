@@ -1,0 +1,93 @@
+{
+  "users": [
+    {
+      "name": "Admin",
+      "email": "admin@gmail.com",
+      "password": "Admin@123",
+      "role": "admin",
+      "userId": 1750070856974,
+      "id": 1
+    },
+    {
+      "name": "Test",
+      "email": "test@gmail.com",
+      "password": "Test@1234",
+      "role": "user",
+      "userId": 1750070869853,
+      "id": 2
+    },
+    {
+      "name": "Kirtan",
+      "email": "kirtan@gmail.com",
+      "password": "Kirtan@2",
+      "role": "user",
+      "userId": 1750154236758,
+      "id": 3
+    },
+    {
+      "name": "User",
+      "email": "user@gmail.com",
+      "password": "User@123",
+      "role": "user",
+      "userId": 1751266324866,
+      "id": 4
+    },
+    {
+      "name": "Test1",
+      "email": "test1@gmail.com",
+      "password": "Test!123",
+      "role": "user",
+      "userId": 1751272652523,
+      "id": 5
+    }
+  ],
+  "tasks": [
+    {
+      "title": "1",
+      "description": "1",
+      "dueDate": "2025-06-19",
+      "status": "accepted",
+      "userId": 1750070869853,
+      "id": 1
+    },
+    {
+      "title": "2",
+      "description": "3",
+      "dueDate": "2025-06-23",
+      "status": "rejected",
+      "userId": 1750154236758,
+      "id": 2
+    },
+    {
+      "title": "2",
+      "description": "2",
+      "dueDate": "2025-06-26",
+      "status": "accepted",
+      "userId": 1750070869853,
+      "id": 3
+    },
+    {
+      "title": "3",
+      "description": "4",
+      "dueDate": "2025-06-27",
+      "status": "rejected",
+      "userId": 1750154236758,
+      "id": 4
+    },
+    {
+      "title": "4",
+      "description": "sample",
+      "dueDate": "2025-07-11",
+      "status": "accepted",
+      "userId": 1750154236758,
+      "id": 5
+    },
+    {
+      "dueDate": "2025-07-01",
+      "status": "rejected",
+      "description": "6",
+      "title": "5",
+      "id": 6
+    }
+  ]
+}
